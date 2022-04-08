@@ -1,6 +1,16 @@
 Hi there, my name is Vladimir.
 
-- 🔭 I've worked with HTML5, CSS3, SASS/SCSS, JS(ECMAScript 6), React/Redux
+- 🔭 I've worked with {
+          HTML5, 
+          CSS3, 
+          SASS/SCSS, 
+          JS(ECMAScript 6+), 
+          React/Redux,
+          classnames,
+          react-router-dom,
+          hooks,
+          styled-components
+          } = Frontend
 - 🌱 I really like coding. 
 - 🤔 I'm also going to learn TypeScript in closing future.
 - ⚡ I'm open for a work as Junior Frontend Developer.
