@@ -6,9 +6,11 @@ Hi there, my name is Vladimir.
           SASS/SCSS, 
           JS(ECMAScript 6+), 
           React/Redux,
-          classnames,
+          react-hook-form,
           react-router-dom,
           hooks,
+          classnames,
+          css modules,
           styled-components
           } = Frontend
 - 🌱 I really like coding. 
