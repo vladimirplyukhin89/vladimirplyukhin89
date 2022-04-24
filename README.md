@@ -17,5 +17,6 @@ Hi there, my name is Vladimir.
 - 🤔 I'm also going to learn TypeScript in closing future.
 - ⚡ I'm open for a work as Junior Frontend Developer.
 
-Connect me at email if you want: vladimirplyukhin89@gmail.com.
+Connect me at email if you want: vladimirplyukhin89@gmail.com
+or telegram https://t.me/homlesman.
 Thanks for your attention!
