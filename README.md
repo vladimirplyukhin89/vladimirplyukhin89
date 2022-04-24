@@ -16,9 +16,10 @@ Hi there, my name is Vladimir.
 - 🌱 I really like coding. 
 - 🤔 I'm also going to learn TypeScript in closing future.
 - ⚡ I'm open for a work as Junior Frontend Developer.
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirplyukhin89)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>Connect me at email if you want: vladimirplyukhin89@gmail.com
+Connect me at email if you want: vladimirplyukhin89@gmail.com
 or telegram https://t.me/homlesman.
-Thanks for your attention!</p>
-<div>[![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)</div>
+Thanks for your attention!
+[![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)
 
