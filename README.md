@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+really+like+coding)](https://git.io/typing-svg)
 
-<p>Connect me at email if you want: <a href="mailto:vladimirplyukhin89@gmail.com">here</a>
+<p>Connect me at email if you want <a href="mailto:vladimirplyukhin89@gmail.com">here</a>
 or telegram https://t.me/homlesman.</p>
 <p>Thanks for your attention!</p>
 
