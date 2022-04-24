@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, I'm <span color="#36BCF7FF">Vladimir</span>
+<h1 align="center">Hi
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior frontend developer</h3>
+<h3 align="center">I'm Vladimir</h3>
 
 [![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirplyukhin89)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h4>I've worked with HTML5, CSS3, SCSS, JavaScript(ECMASCript6+), React and Redux</h4>
-<h4>I'm also going to learn TypeScript in closing future.</h4>
-<h4>I'm open for a work as Junior Frontend Developer</h4>
+<li>I've worked with <b>HTML5, CSS3, SCSS, JavaScript(ECMAScript6+), React and Redux</b></li>
+<li>I'm also going to learn <b>TypeScript</b> in closing future.</li>
+<li>I'm open for a work as <b>Junior Frontend Developer</b></li>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+really+like+coding)](https://git.io/typing-svg)
 
