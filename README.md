@@ -20,5 +20,5 @@ Hi there, my name is Vladimir.
 Connect me at email if you want: vladimirplyukhin89@gmail.com
 or telegram https://t.me/homlesman.
 Thanks for your attention!
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladimirplyukhin89)](https://git.io/streak-stats)
-[![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username) 
+[![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vladimirplyukhin89)](https://git.io/streak-stats) 
