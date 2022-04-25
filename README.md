@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Vova
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Junior frontend developer</h3>
-<h3 align="center" style="color:#ff6c36">Respect and peace!</h3>
-
+<h3 align="center">Junior frontend developer. Respect and peace!</h3>
+  
 [![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirplyukhin89)](https://github.com/anuraghazra/github-readme-stats)
