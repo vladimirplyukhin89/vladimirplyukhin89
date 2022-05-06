@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirplyukhin89)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<li>I've worked with <b>HTML5, CSS3, SCSS, JavaScript(ECMAScript6+), React and Redux</b></li>
+<li>I've worked with <b>HTML5, CSS3, SCSS/SASS, JavaScript(ECMAScript6+), React and Redux</b></li>
 <li>I'm also going to learn <b>TypeScript</b> in closing future.</li>
 <li>I'm open for a work as <b>Junior Frontend Developer</b></li>
 <li>My native language is Russian, but I speak <b>English(B2 level)</b></li>
