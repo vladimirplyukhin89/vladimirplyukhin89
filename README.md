@@ -8,7 +8,7 @@
 
 
 <li>I've worked with <b>SCSS, JavaScript(ECMAScript6+), React and Redux</b></li>
-<li>I'm also going to learn <b>TypeScript</b> in closing future.</li>
+<li>I'm also going to learn <b>TypeScript</b> in the near future.</li>
 <li>My native language is Russian, but I speak <b>English(B2 level)</b></li>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+really+like+coding)](https://git.io/typing-svg)
