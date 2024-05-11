@@ -7,7 +7,7 @@
 <li>I'm taking an advanced level React course on <a href="https://learn.javascript.ru/courses/react" target="_blank"><b>learn.javascript.ru</b></a></li>
 <li>My native language is Russian, but I speak <b>English(B2 level)</b></li>
 
-
+<br />
 <p>Connect me at email if you want <a href="mailto:vladimirplyukhin89@gmail.com">here</a>
 or telegram https://t.me/homlesman.</p>
 <p>Thanks for your attention!</p>
