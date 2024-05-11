@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Vova
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer. Respect and peace!</h3>
   
 [![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)
