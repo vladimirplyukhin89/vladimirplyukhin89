@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vova, Front-End Developer
 <h3 align="center">Respect and peace!</h3>
   
-[![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/Pirate_of_dark_water)
 
 <li>I've worked with <b>JavaScript(ES6), TypeScript, React/Redux Toolkit, Next.js</b></li>
 <li>I'm taking an advanced level React course on <a href="https://learn.javascript.ru/courses/react" target="_blank"><b>learn.javascript.ru</b></a></li>
