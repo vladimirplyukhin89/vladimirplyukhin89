@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vova, Front-End Developer
+<h1 align="center">Hi, I'm Vova, fullstack developer
 <h3 align="center">Respect and peace!</h3>
   
 [![codewars](https://www.codewars.com/users/Pirate_of_dark_water/badges/large)](https://www.codewars.com/users/Pirate_of_dark_water)
